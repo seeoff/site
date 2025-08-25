@@ -1,0 +1,337 @@
+{
+  "seo": {
+    "title": "F-Line Roleplay - Serveur FiveM Free-Acces",
+    "shortTitle": "F-Line RP",
+    "description": "Rejoignez le serveur roleplay FiveM GTA V le plus immersif. Framework personnalisé, communauté active, économie réaliste et possibilités de roleplay infinies.",
+    "keywords": [
+      "FiveM", 
+      "GTA V", 
+      "Roleplay", 
+      "RP Server", 
+      "GTA Roleplay", 
+      "FiveM Server", 
+      "Los Santos"
+    ],
+    "ogImage": "/images/og-image.jpg",
+    "twitterCard": "summary_large_image",
+    "twitterHandle": "@F-Linerp",
+    "favicon": "/favicon.ico",
+    "themeColor": "#4cadd0",
+    "locale": "fr_FR",
+    "url": "https://F-Line-rp.com"
+  },
+  "legal": {
+    "companyName": "F-Line Roleplay",
+    "email": "contact@F-Line-rp.com",
+    "privacyEmail": "privacy@F-Line-rp.com",
+    "dpoEmail": "dpo@F-Line-rp.com",
+    "supportEmail": "support@F-Line-rp.com",
+    "lastUpdated": "2025-08-25",
+    "minAge": 16,
+    "copyrightYear": 2025,
+    "dataRetention": {
+      "characterData": "6 mois d’inactivité",
+      "chatLogs": "30 Jours",
+      "connectionLogs": "90 Jours",
+      "banRecords": "Permanet",
+      "whitelistApplications": "1 an"
+    }
+  },
+  "server": {
+    "name": "F-Line Roleplay",
+    "tagline": "Où l'histoire prend vie",
+    "description": "Découvrez le serveur roleplay GTA V le plus immersif, avec des fonctionnalités personnalisées, une communauté active et des possibilités infinies.",
+    "ip": "https://cfx.re/join/qep6lp",
+     "ipf": "cfx.re/join/qep6lp",
+    "port": "",
+    "discord": "https://discord.gg/fline",
+    "maxPlayers": 256,
+    "logo": "/images/flinev2_logo.jpg",
+    "loadingTips": [
+      "Remember to stay in character at all times",
+      "Press F1 to open the help menu",
+      "Join our Discord for the latest updates",
+      "Quality roleplay is always rewarded"
+    ]
+  },
+  "features": [
+    {
+      "id": "custom-framework",
+      "title": "Framework Personnalisé",
+      "description": "Conçu de A à Z pour des performances optimales",
+      "icon": "Code2"
+    },
+    {
+      "id": "voice-chat",
+      "title": "Chat Vocal Avancé",
+      "description": "Chat vocal de proximité avec systèmes radio",
+      "icon": "Mic"
+    },
+    {
+      "id": "economy",
+      "title": "Économie Dynamique",
+      "description": "Marché dirigé par les joueurs avec des prix réalistes",
+      "icon": "DollarSign"
+    },
+    {
+      "id": "housing",
+      "title": "Système de Logement",
+      "description": "Possédez des propriétés et personnalisez votre espace",
+      "icon": "Home"
+    },
+    {
+      "id": "vehicles",
+      "title": "Plus de 300 Véhicules",
+      "description": "Voitures personnalisées avec conduite réaliste",
+      "icon": "Car"
+    },
+    {
+      "id": "events",
+      "title": "Événements Hebdomadaires",
+      "description": "Événements communautaires avec récompenses",
+      "icon": "Calendar"
+    }
+  ],
+  "gallery": {
+    "images": [
+      { 
+        "id": 1, 
+        "src": "/images/gallery/1.png", 
+        "alt": "City skyline at night", 
+        "title": "Downtown Los Santos",
+        "category": "locations"
+      },
+      { 
+        "id": 2, 
+        "src": "/images/gallery/2.png", 
+        "alt": "Police chase scene", 
+        "title": "High Speed Chase",
+        "category": "action"
+      },
+      { 
+        "id": 3, 
+        "src": "/images/gallery/3.png", 
+        "alt": "Car meet event", 
+        "title": "Weekly Car Meet",
+        "category": "events"
+      },
+      { 
+        "id": 4, 
+        "src": "/images/gallery/4.png", 
+        "alt": "Racing event", 
+        "title": "Street Racing",
+        "category": "events"
+      },
+      { 
+        "id": 5, 
+        "src": "/images/gallery/5.png", 
+        "alt": "Roleplay scenario", 
+        "title": "Bank Heist RP",
+        "category": "roleplay"
+      },
+      { 
+        "id": 6, 
+        "src": "/images/gallery/6.jpg", 
+        "alt": "Community gathering", 
+        "title": "Community Event",
+        "category": "events"
+      },
+      { 
+        "id": 7, 
+        "src": "/images/gallery/7.jpg", 
+        "alt": "Custom vehicles", 
+        "title": "Custom Rides",
+        "category": "vehicles"
+      },
+      { 
+        "id": 8, 
+        "src": "/images/gallery/8.jpg", 
+        "alt": "Server event", 
+        "title": "Special Event",
+        "category": "events"
+      }
+    ]
+  },
+  "jobs": {
+    "categories": [
+      {
+        "id": "emergency",
+        "name": "Service d'urgence",
+        "color": "red"
+      },
+      {
+        "id": "civilian",
+        "name": "Civil",
+        "color": "blue"
+      },
+      {
+        "id": "criminal",
+        "name": "Criminel",
+        "color": "purple"
+      },
+      {
+        "id": "business",
+        "name": "Business",
+        "color": "green"
+      }
+    ],
+    "list": [
+      {
+        "id": "police",
+        "name": "SASP",
+        "category": "emergency",
+        "description": "Proteger et servir le ville",
+        "requirements": ["16 ans", "Casier vierge", "Joueur Actif"],
+        "image": "/images/jobs/sasp.jpg"
+      },
+      {
+        "id": "ems",
+        "name": "SAMS",
+        "category": "emergency",
+        "description": "Sauvez des vie et donnez des soins",
+        "requirements": ["16 ans", "connaissance medical", "Joueur Actif"],
+        "image": "/images/jobs/ems.jpg"
+      },
+      {
+        "id": "mechanic",
+        "name": "LS Custom",
+        "category": "civilian",
+        "description": "Reparer et custom des véhicule",
+        "requirements": ["Pas de prerequis"],
+        "image": "/images/jobs/mechanic.jpg"
+      },
+      {
+        "id": "taxi",
+        "name": "Taxi",
+        "category": "civilian",
+        "description": "Transporter des citoyen dans la ville",
+        "requirements": ["Permis", "Bonne conduite"],
+        "image": "/images/jobs/taxi.jpg"
+      },
+      {
+        "id": "dealer",
+        "name": "M.O.B.",
+        "category": "criminal",
+        "description": "Gang de rue",
+        "requirements": ["14 ans", "Joueur Actif"],
+        "image": "/images/jobs/dealer.jpg"
+      },
+      {
+        "id": "lawyer",
+        "name": "Avocat",
+        "category": "business",
+        "description": "Deffendre les criminel devant la justice",
+        "requirements": ["Diplome", "Bon standing"],
+        "image": "/images/jobs/lawyer.jpg"
+      },
+      {
+        "id": "lamafiasilenzio",
+        "name": "La Famille Gustavo",
+        "category": "criminal",
+        "description": "Mafia Italienne",
+        "requirements": ["18 ans", "Joueur Actif"],
+        "image": "/images/jobs/lawyer.jpg"
+      }
+    ]
+  },
+  "rules": [
+    {
+      "id": "rdm",
+      "title": "Pas de FreeKill (FK)",
+      "description": "Tuer sans raison valable en RP est interdit"
+    },
+    {
+      "id": "vdm",
+      "title": "Pas de CarKill (CK)",
+      "description": "Utiliser un véhicule comme arme sans RP est interdit"
+    },
+    {
+      "id": "metagaming",
+      "title": "Pas de  Metagaming",
+      "description": "Utiliser des informations hors-RP en RP est interdit"
+    },
+    {
+      "id": "powergaming",
+      "title": "Pas de Powergaming",
+      "description": "Forcer des actions sur les autres sans leur laisser la possibilité de répondre"
+    },
+    {
+      "id": "respect",
+      "title": "Respectez Tout le Monde",
+      "description": "Traitez tous les joueurs et le staff avec respect"
+    }
+  ],
+  "team": [
+    {
+      "id": "john-doe",
+      "name": "Furuta",
+      "role": "Fondateur",
+      "avatar": "/images/team/avatar1.jpg",
+      "discord": "ellemetbiencetteverte",
+      "description": "Fondateur du projet"
+    },
+    {
+      "id": "jane-smith",
+      "name": "SEE",
+      "role": "Directeur",
+      "avatar": "/images/team/avatar2.png",
+      "discord": "see.off",
+      "description": "Directeur du projet"
+    },
+    {
+      "id": "mike-wilson",
+      "name": "FiRazone",
+      "role": "Développeur",
+      "avatar": "/images/team/avatar3.png",
+      "discord": "firazone",
+      "description": "Développeur du projet"
+    },
+    {
+      "id": "sarah-jones",
+      "name": "Kurt",
+      "role": "Herbergement",
+      "avatar": "/images/team/avatar4.gif",
+      "discord": "mina_too2.0",
+      "description": "Développeur du projet"
+    }
+  ],
+  "social": {
+    "discord": "https://discord.gg/fline",
+    "twitter": "https://twitter.com/F-Linerp",
+    "youtube": "https://youtube.com/@F-Linerp",
+    "tiktok": "https://tiktok.com/@furutaccg",
+    "instagram": "https://instagram.com/F-Linerp",
+    "twitch": "https://twitch.tv/F-Linerp"
+  },
+  "whitelist": {
+    "enabled": true,
+    "applicationUrl": "https://apply.F-Line-rp.com",
+    "requirements": [
+      "Minimum age of 16 years",
+      "Working microphone",
+      "Read and understand server rules",
+      "Pass character backstory review"
+    ]
+  },
+  "donations": {
+    "enabled": true,
+    "currency": "USD",
+    "packages": [
+      {
+        "name": "Supporter",
+        "price": 5,
+        "perks": ["Priority Queue", "Supporter Tag"]
+      },
+      {
+        "name": "VIP",
+        "price": 15,
+        "perks": ["Priority Queue", "VIP Tag", "Extra Character Slot", "Custom Plate"]
+      },
+      {
+        "name": "Elite",
+        "price": 30,
+        "perks": ["Priority Queue", "Elite Tag", "2 Extra Character Slots", "Custom Plate", "Exclusive Vehicles"]
+      }
+    ]
+  }
+}
